@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e48092e0-3844-4eaa-9921-2c01eff2d0ac}">
+		<property name="assetPath">
+			<value>Quacks/duck_quack_Shangyi_s_3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.29045351473922904</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{78091474-2f9f-4984-bbba-80989c6f8677}</destination>
+		</relationship>
+	</object>
+</objects>

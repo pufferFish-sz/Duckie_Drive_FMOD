@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{5744f0dc-9587-4f7a-9263-d4123a0b11a3}">
+		<property name="name">
+			<value>Quacks</value>
+		</property>
+		<relationship name="folder">
+			<destination>{0e6d2141-75ab-403f-955c-acd2c8228b0d}</destination>
+		</relationship>
+	</object>
+</objects>
