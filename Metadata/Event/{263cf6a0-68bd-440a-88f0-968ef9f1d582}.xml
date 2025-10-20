@@ -61,7 +61,10 @@
 	</object>
 	<object class="EventAutomatableProperties" id="{33cd0a6d-9609-4fb1-8a7b-ef404adf02bd}">
 		<property name="maxVoices">
-			<value>2</value>
+			<value>5</value>
+		</property>
+		<property name="dopplerEnabled">
+			<value>true</value>
 		</property>
 	</object>
 	<object class="MarkerTrack" id="{a9d8514a-3d48-48a4-bda1-057d42a67336}" />
@@ -77,7 +80,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{11ce67fa-1f9f-4fea-893b-22461206f5cf}">
 		<property name="volume">
-			<value>-9</value>
+			<value>-15.5</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{0a02551b-ad81-477c-805b-8aa58c51bd17}</destination>

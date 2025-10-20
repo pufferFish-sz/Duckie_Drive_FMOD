@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d3532e9b-248b-49e9-8717-1dcb4524e492}">
+		<property name="assetPath">
+			<value>Cars/carB_honk_02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.83834467120181411</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{78091474-2f9f-4984-bbba-80989c6f8677}</destination>
+		</relationship>
+	</object>
+</objects>
