@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b22ef77a-eed2-4f9a-aba0-e4b8db790772}">
+		<property name="assetPath">
+			<value>Cars/car_start_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.7331519274376417</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{78091474-2f9f-4984-bbba-80989c6f8677}</destination>
+		</relationship>
+	</object>
+</objects>

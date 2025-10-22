@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{0809605c-1798-400e-a993-d64e91dc9e15}">
+		<property name="name">
+			<value>CameraVelocity</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d4b0b6ed-c021-4c2f-924f-2227ebb99d00}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3e1b805a-a386-4a2e-9e7d-4a1310545544}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3e1b805a-a386-4a2e-9e7d-4a1310545544}">
+		<property name="initialValue">
+			<value>0.5</value>
+		</property>
+	</object>
+</objects>

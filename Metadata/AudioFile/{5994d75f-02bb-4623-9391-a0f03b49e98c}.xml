@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5994d75f-02bb-4623-9391-a0f03b49e98c}">
+		<property name="assetPath">
+			<value>Camera/camera_select_04.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.46598639455782315</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{78091474-2f9f-4984-bbba-80989c6f8677}</destination>
+		</relationship>
+	</object>
+</objects>
